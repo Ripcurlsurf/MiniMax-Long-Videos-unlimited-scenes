@@ -1,1 +1,1 @@
-# MiniMax-Long-Videos-unlimited-scenes
+# Github doesnt make it easy to delete scripts
